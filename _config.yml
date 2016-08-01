@@ -1,12 +1,16 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
 # Basic
 name:               "nu11p1d"
-description:        "Fighting for communities, fuck govs
+description:        "fight them or consider yourself useless"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//nullpid.github.io"
-author:             "nu11p1d"
+author:             "gfjaru"
 twitter:
-  username:         "nullpid"
+  username:         "gfjaru"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -20,11 +24,6 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 # Navigation
-#nav:
-#  - name:           "About"
-#    href:           "//kiko.gfjaru.com/about"
-#  - name:           "Download"
-#    href:           "//github.com/gfjaru/Kiko/releases"
 
 # Sass
 sass:
