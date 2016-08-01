@@ -34,4 +34,4 @@ MOZ_FIREFOX_FILE="firefox"
 
 ## Gotchas
 
-As far as I can tell, opening Firefox in private mode this way, will not display the usually `mask icon`. I do not know exactly why this happens as I did not had the interest to check the reason.
+As far as I can tell, opening Firefox in private mode this way, will not display the usually `mask icon`. I do not know exactly why this happens as I did not had the interest to check the reason. It's assumed we are navigating in private mode because the homepage is consistent.
